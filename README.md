@@ -1,219 +1,183 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Adii123-sik.Adii123-sik" />
-<br/>
+<div align="center">
 
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1500&pause=1000&color=FFB400&center=true&vCenter=true&width=700&lines=Hi+There!+👋;+I+am+Aditya+Sikarwar!+😉;"
-    alt="greeting"
-  />
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1500&pause=1000&color=FFB400&center=true&vCenter=true&width=700&lines=I+am+a+Full+Stack+Developer!+💻;+I+build+SaaS+Products!+🚀;"
-    alt="greeting"
-  />
-</h1>
+# Hi, I'm Aditya Sikarwar 👋
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="90%" />
-</p>
+### Full Stack MERN Developer • SaaS Builder • Java DSA Enthusiast
 
----
+I build practical, production-focused web products with clean architecture, secure APIs, and user-friendly interfaces.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
-</p>
+[![Email](https://img.shields.io/badge/Email-asikarwar792%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asikarwar792@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Sikarwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sikarwar-866472340/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-aditya__1231-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aditya_1231/)
+[![GitHub](https://img.shields.io/badge/GitHub-Adii123--sik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adii123-sik)
 
----
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+About+Me+🚀;💻+Building+Production-Grade+SaaS+💻;🌱+Always+Learning,+Always+Shipping+🌱" alt="About Me Animation" />
-</h2>
-
-- 👋 Hi there! I'm **_Aditya Sikarwar_**, a Full Stack Developer from Agra, India 🇮🇳 who loves turning ideas into real products.
-
-- 💻 I am a **𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐌𝐄𝐑𝐍 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫** working at **_Vivacious Solutions_**, Agra.
-
-- 🔭 I've independently built **_8 full-stack products_**, with **_5+ live in production_** used by real customers.
-
-- 🌱 I'm diving deeper into **_System Design_**, **_NestJS_**, **_Advanced DSA_**, and scalable architecture.
-
-- 💡 I enjoy building **_multi-tenant SaaS, billing & booking-automation systems_** that are secure, modular and scalable.
-
-- 💬 Ask me about **_React.js_**, **_Next.js_**, **_Node.js_**, **_Express.js_**, **_MongoDB_**, **_MySQL_**, **_JWT Auth_** or **_Razorpay integration_**. [Here](https://linkedin.com/in/aditya-sikarwar)
-
-- 🤝 I'm always open to **_collaborations on MERN Stack, SaaS platforms, or open-source projects_**.
-
-- ⚡ Fun fact: **_I've solved 100+ Java DSA problems_** and still enjoy a good recursion puzzle. 🧠
-
-<p align="center">
-🎯 Motto: 👇
-</p>
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Ideas+are+cheap%2C+shipped+products+matter;💡+Dream.+Code.+Deploy.;🌱+Evolving+one+line+of+code+at+a+time;🔥+Breaking+problems%2C+building+solutions;⚡+Keep+it+simple%2C+make+it+powerful;🌐+Coding+the+future%2C+one+project+at+a+time"
-    alt="motto typing svg"
-  />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
-</p>
-
----
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=❤️+Connect+with+me!+❤️;😎+My+Socials!+😎" alt="Socials Animation" />
-</h2>
-
-<div align="center"> 
-  <a href="mailto:asikarwar792@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-
-  <a href="https://linkedin.com/in/aditya-sikarwar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://leetcode.com/u/Adii123-sik/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
-  </a>
-
-  <a href="https://instagram.com/adii_.__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
-</p>
+## 👨‍💻 About Me
+
+- 💻 Full Stack MERN Developer from **Agra, India**
+- 🚀 Built **8 full-stack products**, with **5+ deployed for real-world use**
+- 🧩 Interested in **SaaS, multi-tenant systems, booking automation, billing systems, dashboards and APIs**
+- 🌱 Currently improving **System Design, NestJS, Advanced DSA and scalable backend architecture**
+- ☕ Solving DSA in **Java** and strengthening problem-solving fundamentals
+- 🤝 Open to meaningful **MERN, SaaS and open-source collaborations**
+- 📫 Reach me at **[asikarwar792@gmail.com](mailto:asikarwar792@gmail.com)**
+
+> **Build useful things. Keep learning. Ship better software.**
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+Explore+My+Tech+Stack!+⚡;💻+From+Logic+to+Interface+💻" alt="Typing Animation" />
-</h2>
-
-<br/>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-  <!-- Row 1: Languages & Databases -->
-  <img src="https://skillicons.dev/icons?i=java,js,ts,c,mysql,mongodb,postman,aws" />
+### Languages
+<img src="https://skillicons.dev/icons?i=java,js,ts,c" alt="Languages" />
 
-  <br>
-  <br>
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind,bootstrap" alt="Frontend" />
 
-  <!-- Row 2: Web Development -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,nestjs,html,css,tailwind,bootstrap" />
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql" alt="Backend and Databases" />
 
-  <br>
-  <br>
-
-  <!-- Row 3: Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
-
-  <br>
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,aws,vercel,netlify" alt="Tools and Platforms" />
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
-</p>
+## 🚀 Featured Work
 
----
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Featured+Projects+🚀;💼+What+I've+Built+💼" alt="Projects Animation" />
-</h2>
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏥 Doctor Appointment SaaS
 **React.js · Node.js · Express.js · MySQL · Razorpay**
-Multi-tenant hospital reception & appointment platform with QR booking, WhatsApp OTP, Razorpay payments, OPD tokens, and live queue tracking.
+
+Multi-tenant hospital appointment and reception platform with QR booking, WhatsApp-based flows, online payments, OPD tokens and live queue tracking.
+
+</td>
+<td width="50%" valign="top">
 
 ### 📦 Mica Manager
 **Next.js · TypeScript · NestJS · MySQL · JWT**
-Wholesale inventory, billing & ledger system with partial payments, credit sales, receivables/payables, and Excel imports.
 
-### 📢 Brandcrest Media
+Wholesale inventory, billing and ledger system with credit sales, partial payments, receivables/payables and Excel import workflows.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📢 Brandcrest Media Platform
 **React.js · TypeScript · Node.js · Express.js · MySQL**
-Multi-channel advertising booking platform spanning newspaper, radio, cinema, transit, mall, outdoor, TV & political campaigns.
+
+Advertising booking platform for multiple media channels including newspaper, radio, cinema, transit, mall, outdoor and television campaigns.
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏭 Inventory Management System
 **Full Stack · Role-Based Access**
-Built for 509 Army Base Workshop, Indian Army — replaced a fully manual, paper-based stock-tracking process.
+
+Inventory workflow built for **509 Army Base Workshop, Indian Army**, replacing a manual paper-based stock tracking process with a structured digital system.
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
-</p>
+## 🧠 Problem Solving
+
+<div align="center">
+
+### LeetCode
+
+<a href="https://leetcode.com/u/aditya_1231/">
+  <img src="https://leetcard.jacoblin.cool/aditya_1231?theme=dark&font=Fira%20Code&ext=contest" alt="Aditya's LeetCode stats" />
+</a>
+
+</div>
+
+- ✅ **100+ Java DSA problems solved**
+- 📚 Practicing arrays, strings, hashing, two pointers, sliding window, recursion and other core patterns
+- 🎯 Focus: write correct solutions first, then improve time and space complexity
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=📊+Competitive+Programming+📊;🔥+LeetCode+Progress+🔥;" alt="LeetCode Stats Animation" />
-</h2>
-<div align=center>
-  <a href="https://leetcode.com/u/Adii123-sik/">
-  <img width=650 align="center" src="https://leetcard.jacoblin.cool/Adii123-sik?theme=dark&font=ovo&ext=contest&border_radius=10" alt="leetcode stats"/>
-  </a>
+## 📊 GitHub Overview
+
+> These cards are generated inside this repository by GitHub Actions, so they do not depend on the public `github-readme-stats.vercel.app` endpoint.
+
+<div align="center">
+
+<img src="./profile/stats.svg" width="49%" alt="Aditya's GitHub stats" />
+<img src="./profile/top-langs.svg" width="49%" alt="Aditya's top languages" />
+
 </div>
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=📊+GitHub+Stats+📊;🔥+Contribution+Streaks+🔥;🧠+Languages+I+Use+🧠" alt="GitHub Stats Animation" />
-</h2>
+## 🌌 3D Contribution Graph
 
-<div align=center>
+<div align="center">
 
-  <h3 align="center">🔥 Streaks 🔥</h3>
-  <img width=650 src="https://github-readme-streak-stats.herokuapp.com/?user=Adii123-sik&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
 
-  <h3 align="center">📚 GitHub Stats 📚</h3>
-  <img width=650 src="https://github-readme-stats.vercel.app/api?username=Adii123-sik&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-
-  <h3 align="center">🎨 Languages Used 🎨</h3>
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adii123-sik&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
-</p>
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adii123-sik/Adii123-sik/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adii123-sik/Adii123-sik/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Adii123-sik/Adii123-sik/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🌟+My+GitHub+Contributions+🌟;🚀+Real+Products,+Real+Users+🚀;🤝+Commits+and+Collaborations+🤝" alt="Contributions Animation" />
-</h2>
+## 🎯 What I'm Learning Now
 
-<p align="center">
-  <img src="https://github.com/Adii123-sik/Adii123-sik/blob/master/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
-</p>
+```text
+System Design       → scalable services, caching, queues, database choices
+NestJS              → modular backend architecture and clean APIs
+Advanced DSA        → stronger problem solving and interview preparation
+Backend Engineering → authentication, authorization, payments and reliability
+```
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🐍+My+Contribution+Snake+🐍;✨+Watch+My+Commits+Come+Alive!+✨;⚡+Animated+GitHub+Activity+⚡" alt="Snake Animation" />
-</h2>
+## 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Adii123-sik/Adii123-sik/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
+<div align="center">
+
+**I'm interested in building useful products, learning from strong engineers, and collaborating on real software.**
+
+[Email](mailto:asikarwar792@gmail.com) •
+[LinkedIn](https://www.linkedin.com/in/aditya-sikarwar-866472340/) •
+[LeetCode](https://leetcode.com/u/aditya_1231/) •
+[GitHub](https://github.com/Adii123-sik)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Adii123-sik&style=for-the-badge&color=blue" alt="Profile views" />
+
+</div>
 
 ---
 
-> _"An investment in knowledge pays the best interest." – Benjamin Franklin_
+<div align="center">
+
+### “An investment in knowledge pays the best interest.” — Benjamin Franklin
+
+**Thanks for visiting my profile. ⭐**
+
+</div>
