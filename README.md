@@ -3,11 +3,11 @@
 
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1500&pause=1000&color=FFB400&center=true&vCenter=true&width=700&lines=Hi+There!+👋;+I+am+Aditya+Sikarwar!+😉;"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1500&pause=1000&color=FFB400&center=true&vCenter=true&width=700&lines=Hi+There!+👋;+I+am+Aditya+Sikarwar!+😉;"
     alt="greeting"
   />
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1500&pause=1000&color=FFB400&center=true&vCenter=true&width=700&lines=I+am+a+Full+Stack+Developer!+💻;+I+build+SaaS+Products!+🚀;"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1500&pause=1000&color=FFB400&center=true&vCenter=true&width=700&lines=I+am+a+Full+Stack+Developer!+💻;+I+build+SaaS+Products!+🚀;"
     alt="greeting"
   />
 </h1>
@@ -25,7 +25,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+About+Me+🚀;💻+Building+Production-Grade+SaaS+💻;🌱+Always+Learning,+Always+Shipping+🌱" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+About+Me+🚀;💻+Building+Production-Grade+SaaS+💻;🌱+Always+Learning,+Always+Shipping+🌱" alt="About Me Animation" />
 </h2>
 
 - 👋 Hi there! I'm **_Aditya Sikarwar_**, a Full Stack Developer from Agra, India 🇮🇳 who loves turning ideas into real products.
@@ -49,7 +49,7 @@
 </p>
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Ideas+are+cheap%2C+shipped+products+matter;💡+Dream.+Code.+Deploy.;🌱+Evolving+one+line+of+code+at+a+time;🔥+Breaking+problems%2C+building+solutions;⚡+Keep+it+simple%2C+make+it+powerful;🌐+Coding+the+future%2C+one+project+at+a+time"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Ideas+are+cheap%2C+shipped+products+matter;💡+Dream.+Code.+Deploy.;🌱+Evolving+one+line+of+code+at+a+time;🔥+Breaking+problems%2C+building+solutions;⚡+Keep+it+simple%2C+make+it+powerful;🌐+Coding+the+future%2C+one+project+at+a+time"
     alt="motto typing svg"
   />
 </p>
@@ -63,7 +63,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=❤️+Connect+with+me!+❤️;😎+My+Socials!+😎" alt="Socials Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=❤️+Connect+with+me!+❤️;😎+My+Socials!+😎" alt="Socials Animation" />
 </h2>
 
 <div align="center"> 
@@ -93,7 +93,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+Explore+My+Tech+Stack!+⚡;💻+From+Logic+to+Interface+💻" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=⚡+Explore+My+Tech+Stack!+⚡;💻+From+Logic+to+Interface+💻" alt="Typing Animation" />
 </h2>
 
 <br/>
@@ -128,7 +128,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Featured+Projects+🚀;💼+What+I've+Built+💼" alt="Projects Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Featured+Projects+🚀;💼+What+I've+Built+💼" alt="Projects Animation" />
 </h2>
 
 ### 🏥 Doctor Appointment SaaS
@@ -156,7 +156,7 @@ Built for 509 Army Base Workshop, Indian Army — replaced a fully manual, paper
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=📊+Competitive+Programming+📊;🔥+LeetCode+Progress+🔥;" alt="LeetCode Stats Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=📊+Competitive+Programming+📊;🔥+LeetCode+Progress+🔥;" alt="LeetCode Stats Animation" />
 </h2>
 <div align=center>
   <a href="https://leetcode.com/u/Adii123-sik/">
@@ -167,7 +167,7 @@ Built for 509 Army Base Workshop, Indian Army — replaced a fully manual, paper
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=📊+GitHub+Stats+📊;🔥+Contribution+Streaks+🔥;🧠+Languages+I+Use+🧠" alt="GitHub Stats Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=📊+GitHub+Stats+📊;🔥+Contribution+Streaks+🔥;🧠+Languages+I+Use+🧠" alt="GitHub Stats Animation" />
 </h2>
 
 <div align=center>
@@ -181,38 +181,6 @@ Built for 509 Army Base Workshop, Indian Army — replaced a fully manual, paper
   <h3 align="center">🎨 Languages Used 🎨</h3>
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adii123-sik&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
-</p>
-
----
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🌟+My+GitHub+Contributions+🌟;🚀+Real+Products,+Real+Users+🚀;🤝+Commits+and+Collaborations+🤝" alt="Contributions Animation" />
-</h2>
-
-<p align="center">
-  <img src="https://github.com/Adii123-sik/Adii123-sik/blob/master/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f172a,100:1e3a8a&section=footer" />
-</p>
-
----
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🐍+My+Contribution+Snake+🐍;✨+Watch+My+Commits+Come+Alive!+✨;⚡+Animated+GitHub+Activity+⚡" alt="Snake Animation" />
-</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Adii123-sik/Adii123-sik/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
 
 ---
 
