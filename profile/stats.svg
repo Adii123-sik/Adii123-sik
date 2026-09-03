@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Aditya Sikarwar&#39;s GitHub Stats, Rank: C+</title>
+        <title id="titleId">Aditya Sikarwar&#39;s GitHub Stats, Rank: C</title>
         <desc id="descId">Total Stars Earned: 13, Total Commits  (last year) : 111, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 219.45331261824788;
+        stroke-dashoffset: 221.0399755746064;
       }
     }
   
